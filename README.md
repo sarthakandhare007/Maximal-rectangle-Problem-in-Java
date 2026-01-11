@@ -1,4 +1,7 @@
 <img width="594" height="658" alt="image" src="https://github.com/user-attachments/assets/fd795c4a-6860-424d-8c61-0ade87200a09" />
+
+
+
 # Maximal-rectangle-Problem-in-Java
 
 This is **LeetCode 85 – Maximal Rectangle**.
